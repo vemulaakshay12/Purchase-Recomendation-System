@@ -1,0 +1,5218 @@
+[
+    {
+        "user": "user1",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "myntra",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user2",
+        "purchases": [
+            "snapdeal",
+            "shopclues",
+            "amazon",
+            "snapdeal",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user3",
+        "purchases": [
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user4",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "ebay",
+            "snapdeal",
+            "jabong",
+            "snapdeal",
+            "myntra",
+            "myntra",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user5",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "jabong",
+            "myntra",
+            "myntra",
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user6",
+        "purchases": [
+            "flipkart",
+            "ebay",
+            "amazon",
+            "ebay",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user7",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "amazon",
+            "amazon",
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user8",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user9",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user10",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "flipkart",
+            "snapdeal",
+            "jabong",
+            "snapdeal",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user11",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user12",
+        "purchases": [
+            "snapdeal",
+            "myntra",
+            "flipkart",
+            "ebay",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user13",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "flipkart",
+            "amazon",
+            "flipkart",
+            "amazon",
+            "myntra",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user14",
+        "purchases": [
+            "shopclues",
+            "amazon",
+            "shopclues",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user15",
+        "purchases": [
+            "amazon",
+            "snapdeal",
+            "snapdeal",
+            "ebay",
+            "snapdeal",
+            "myntra",
+            "flipkart",
+            "jabong",
+            "myntra",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user16",
+        "purchases": [
+            "amazon",
+            "ebay",
+            "amazon",
+            "flipkart",
+            "amazon",
+            "snapdeal",
+            "ebay",
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user17",
+        "purchases": [
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user18",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "ebay",
+            "shopclues",
+            "shopclues",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user19",
+        "purchases": [
+            "ebay",
+            "jabong",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user20",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user21",
+        "purchases": [
+            "jabong",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user22",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "shopclues",
+            "jabong",
+            "jabong",
+            "jabong",
+            "ebay",
+            "snapdeal",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user23",
+        "purchases": [
+            "myntra",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user24",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user25",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "amazon",
+            "amazon",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user26",
+        "purchases": [
+            "ebay",
+            "ebay",
+            "amazon",
+            "flipkart",
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user27",
+        "purchases": [
+            "snapdeal",
+            "ebay",
+            "ebay",
+            "ebay",
+            "myntra",
+            "snapdeal",
+            "myntra",
+            "ebay",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user28",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "amazon",
+            "ebay",
+            "snapdeal",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user29",
+        "purchases": [
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user30",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon",
+            "shopclues",
+            "myntra",
+            "amazon",
+            "shopclues",
+            "amazon",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user31",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "snapdeal",
+            "shopclues",
+            "ebay",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user32",
+        "purchases": [
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user33",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "ebay",
+            "myntra",
+            "shopclues",
+            "amazon",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user34",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user35",
+        "purchases": [
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user36",
+        "purchases": [
+            "snapdeal",
+            "shopclues",
+            "myntra",
+            "amazon",
+            "amazon",
+            "myntra",
+            "flipkart",
+            "shopclues",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user37",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "shopclues",
+            "ebay",
+            "jabong",
+            "shopclues",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user38",
+        "purchases": [
+            "shopclues",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user39",
+        "purchases": [
+            "snapdeal",
+            "myntra",
+            "ebay",
+            "snapdeal",
+            "amazon",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user40",
+        "purchases": [
+            "ebay",
+            "amazon",
+            "myntra",
+            "snapdeal",
+            "snapdeal",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user41",
+        "purchases": [
+            "snapdeal",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user42",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user43",
+        "purchases": [
+            "myntra",
+            "shopclues",
+            "myntra",
+            "ebay",
+            "ebay",
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user44",
+        "purchases": [
+            "ebay",
+            "ebay",
+            "jabong",
+            "flipkart",
+            "flipkart",
+            "snapdeal",
+            "snapdeal",
+            "shopclues",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user45",
+        "purchases": [
+            "ebay",
+            "amazon",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user46",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "ebay",
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user47",
+        "purchases": [
+            "shopclues",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user48",
+        "purchases": [
+            "shopclues",
+            "myntra",
+            "myntra",
+            "ebay",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user49",
+        "purchases": [
+            "snapdeal",
+            "shopclues",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user50",
+        "purchases": [
+            "amazon",
+            "jabong",
+            "amazon",
+            "amazon",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user51",
+        "purchases": [
+            "snapdeal",
+            "shopclues",
+            "flipkart",
+            "myntra",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user52",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user53",
+        "purchases": [
+            "shopclues",
+            "flipkart",
+            "shopclues",
+            "snapdeal",
+            "snapdeal",
+            "snapdeal",
+            "flipkart",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user54",
+        "purchases": [
+            "flipkart",
+            "ebay",
+            "snapdeal",
+            "amazon",
+            "ebay",
+            "myntra",
+            "ebay",
+            "flipkart",
+            "ebay",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user55",
+        "purchases": [
+            "snapdeal",
+            "shopclues",
+            "amazon",
+            "snapdeal",
+            "amazon",
+            "amazon",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user56",
+        "purchases": [
+            "shopclues",
+            "flipkart",
+            "jabong",
+            "myntra",
+            "jabong",
+            "ebay",
+            "jabong",
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user57",
+        "purchases": [
+            "flipkart",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user58",
+        "purchases": [
+            "amazon",
+            "ebay",
+            "amazon",
+            "ebay",
+            "flipkart",
+            "jabong",
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user59",
+        "purchases": [
+            "flipkart",
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user60",
+        "purchases": [
+            "shopclues",
+            "ebay",
+            "jabong",
+            "jabong",
+            "snapdeal",
+            "myntra",
+            "ebay",
+            "snapdeal",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user61",
+        "purchases": [
+            "shopclues",
+            "flipkart",
+            "jabong",
+            "ebay",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user62",
+        "purchases": [
+            "jabong",
+            "amazon",
+            "amazon",
+            "flipkart",
+            "flipkart",
+            "jabong",
+            "myntra",
+            "ebay",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user63",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "flipkart",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user64",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user65",
+        "purchases": [
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user66",
+        "purchases": [
+            "jabong",
+            "flipkart",
+            "jabong",
+            "shopclues",
+            "flipkart",
+            "snapdeal",
+            "myntra",
+            "jabong",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user67",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "flipkart",
+            "shopclues",
+            "snapdeal",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user68",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user69",
+        "purchases": [
+            "jabong",
+            "ebay",
+            "jabong",
+            "amazon",
+            "flipkart",
+            "myntra",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user70",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "snapdeal",
+            "ebay",
+            "jabong",
+            "flipkart",
+            "flipkart",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user71",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user72",
+        "purchases": [
+            "myntra",
+            "myntra",
+            "jabong",
+            "myntra",
+            "snapdeal",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user73",
+        "purchases": [
+            "jabong",
+            "ebay",
+            "snapdeal",
+            "shopclues",
+            "jabong",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user74",
+        "purchases": [
+            "ebay",
+            "ebay",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user75",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "ebay",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user76",
+        "purchases": [
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user77",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "ebay",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user78",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "amazon",
+            "jabong",
+            "flipkart",
+            "jabong",
+            "myntra",
+            "ebay",
+            "shopclues",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user79",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "amazon",
+            "flipkart",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user80",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "snapdeal",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user81",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "flipkart",
+            "myntra",
+            "myntra",
+            "snapdeal",
+            "amazon",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user82",
+        "purchases": [
+            "ebay",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user83",
+        "purchases": [
+            "shopclues",
+            "myntra",
+            "amazon",
+            "myntra",
+            "myntra",
+            "flipkart",
+            "amazon",
+            "ebay",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user84",
+        "purchases": [
+            "ebay",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user85",
+        "purchases": [
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user86",
+        "purchases": [
+            "snapdeal",
+            "myntra",
+            "myntra",
+            "flipkart",
+            "ebay",
+            "myntra",
+            "jabong",
+            "snapdeal",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user87",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "myntra",
+            "amazon",
+            "flipkart",
+            "snapdeal",
+            "jabong",
+            "jabong",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user88",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "myntra",
+            "jabong",
+            "flipkart",
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user89",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user90",
+        "purchases": [
+            "flipkart",
+            "jabong",
+            "amazon",
+            "amazon",
+            "shopclues",
+            "myntra",
+            "ebay",
+            "shopclues",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user91",
+        "purchases": [
+            "amazon",
+            "jabong",
+            "myntra",
+            "jabong",
+            "jabong",
+            "amazon",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user92",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "snapdeal",
+            "shopclues",
+            "amazon",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user93",
+        "purchases": [
+            "shopclues",
+            "myntra",
+            "snapdeal",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user94",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "flipkart",
+            "amazon",
+            "myntra",
+            "flipkart",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user95",
+        "purchases": [
+            "myntra",
+            "snapdeal",
+            "flipkart",
+            "shopclues",
+            "flipkart",
+            "myntra",
+            "ebay",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user96",
+        "purchases": [
+            "myntra",
+            "myntra",
+            "snapdeal",
+            "shopclues",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user97",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "snapdeal",
+            "amazon",
+            "shopclues",
+            "jabong",
+            "flipkart",
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user98",
+        "purchases": [
+            "ebay",
+            "ebay",
+            "amazon",
+            "myntra",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user99",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "shopclues",
+            "amazon",
+            "amazon",
+            "amazon",
+            "shopclues",
+            "myntra",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user100",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "jabong",
+            "shopclues",
+            "snapdeal",
+            "amazon",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user101",
+        "purchases": [
+            "myntra",
+            "shopclues",
+            "ebay",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user102",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user103",
+        "purchases": [
+            "shopclues",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user104",
+        "purchases": [
+            "shopclues",
+            "ebay",
+            "snapdeal",
+            "snapdeal",
+            "jabong",
+            "shopclues",
+            "amazon",
+            "ebay",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user105",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user106",
+        "purchases": [
+            "jabong",
+            "ebay",
+            "jabong",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user107",
+        "purchases": [
+            "jabong"
+        ]
+    },
+    {
+        "user": "user108",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user109",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user110",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user111",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user112",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "jabong",
+            "myntra",
+            "ebay",
+            "amazon",
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user113",
+        "purchases": [
+            "amazon",
+            "snapdeal",
+            "snapdeal",
+            "shopclues",
+            "myntra",
+            "snapdeal",
+            "snapdeal",
+            "snapdeal",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user114",
+        "purchases": [
+            "jabong",
+            "ebay",
+            "flipkart",
+            "flipkart",
+            "myntra",
+            "myntra",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user115",
+        "purchases": [
+            "snapdeal",
+            "flipkart",
+            "ebay",
+            "ebay",
+            "shopclues",
+            "shopclues",
+            "shopclues",
+            "jabong",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user116",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "snapdeal",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user117",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "shopclues",
+            "ebay",
+            "snapdeal",
+            "ebay",
+            "amazon",
+            "shopclues",
+            "myntra",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user118",
+        "purchases": [
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user119",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "shopclues",
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user120",
+        "purchases": [
+            "myntra",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user121",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "flipkart",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user122",
+        "purchases": [
+            "amazon",
+            "snapdeal",
+            "myntra",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user123",
+        "purchases": [
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user124",
+        "purchases": [
+            "jabong",
+            "amazon",
+            "myntra",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user125",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user126",
+        "purchases": [
+            "jabong",
+            "amazon",
+            "jabong",
+            "ebay",
+            "shopclues",
+            "jabong",
+            "shopclues",
+            "myntra",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user127",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "jabong",
+            "ebay",
+            "shopclues",
+            "ebay",
+            "snapdeal",
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user128",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user129",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user130",
+        "purchases": [
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user131",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "snapdeal",
+            "ebay",
+            "myntra",
+            "ebay",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user132",
+        "purchases": [
+            "jabong"
+        ]
+    },
+    {
+        "user": "user133",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "jabong",
+            "myntra",
+            "snapdeal",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user134",
+        "purchases": [
+            "myntra",
+            "snapdeal",
+            "ebay",
+            "flipkart",
+            "myntra",
+            "amazon",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user135",
+        "purchases": [
+            "ebay",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user136",
+        "purchases": [
+            "shopclues",
+            "amazon",
+            "ebay",
+            "amazon",
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user137",
+        "purchases": [
+            "shopclues",
+            "jabong",
+            "shopclues",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user138",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user139",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user140",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "snapdeal",
+            "flipkart",
+            "jabong",
+            "ebay",
+            "shopclues",
+            "jabong",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user141",
+        "purchases": [
+            "myntra",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user142",
+        "purchases": [
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user143",
+        "purchases": [
+            "myntra",
+            "shopclues",
+            "snapdeal",
+            "jabong",
+            "ebay",
+            "jabong",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user144",
+        "purchases": [
+            "amazon",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user145",
+        "purchases": [
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user146",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user147",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "ebay",
+            "amazon",
+            "amazon",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user148",
+        "purchases": [
+            "snapdeal",
+            "myntra",
+            "shopclues",
+            "ebay",
+            "shopclues",
+            "myntra",
+            "shopclues",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user149",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "shopclues",
+            "flipkart",
+            "myntra",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user150",
+        "purchases": [
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user151",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "ebay",
+            "amazon",
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user152",
+        "purchases": [
+            "snapdeal",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user153",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "jabong",
+            "snapdeal",
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user154",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "shopclues",
+            "myntra",
+            "ebay",
+            "myntra",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user155",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user156",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "amazon",
+            "flipkart",
+            "ebay",
+            "shopclues",
+            "snapdeal",
+            "flipkart",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user157",
+        "purchases": [
+            "shopclues",
+            "jabong",
+            "ebay",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user158",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "snapdeal",
+            "flipkart",
+            "ebay",
+            "flipkart",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user159",
+        "purchases": [
+            "snapdeal",
+            "jabong",
+            "snapdeal",
+            "amazon",
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user160",
+        "purchases": [
+            "shopclues",
+            "amazon",
+            "shopclues",
+            "jabong",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user161",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "myntra",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user162",
+        "purchases": [
+            "ebay",
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user163",
+        "purchases": [
+            "ebay",
+            "jabong",
+            "snapdeal",
+            "flipkart",
+            "amazon",
+            "jabong",
+            "shopclues",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user164",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "shopclues",
+            "jabong",
+            "amazon",
+            "shopclues",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user165",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "ebay",
+            "myntra",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user166",
+        "purchases": [
+            "jabong",
+            "ebay",
+            "ebay",
+            "jabong",
+            "ebay",
+            "snapdeal",
+            "ebay",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user167",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user168",
+        "purchases": [
+            "ebay",
+            "jabong",
+            "flipkart",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user169",
+        "purchases": [
+            "snapdeal",
+            "jabong",
+            "flipkart",
+            "amazon",
+            "flipkart",
+            "ebay",
+            "flipkart",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user170",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "jabong",
+            "flipkart",
+            "amazon",
+            "amazon",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user171",
+        "purchases": [
+            "ebay",
+            "amazon",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user172",
+        "purchases": [
+            "snapdeal",
+            "amazon",
+            "ebay",
+            "jabong",
+            "ebay",
+            "ebay",
+            "shopclues",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user173",
+        "purchases": [
+            "jabong"
+        ]
+    },
+    {
+        "user": "user174",
+        "purchases": [
+            "jabong",
+            "ebay",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user175",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "amazon",
+            "jabong",
+            "shopclues",
+            "ebay",
+            "myntra",
+            "amazon",
+            "shopclues",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user176",
+        "purchases": [
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user177",
+        "purchases": [
+            "shopclues",
+            "myntra",
+            "flipkart",
+            "ebay",
+            "myntra",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user178",
+        "purchases": [
+            "myntra",
+            "shopclues",
+            "snapdeal",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user179",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user180",
+        "purchases": [
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user181",
+        "purchases": [
+            "snapdeal",
+            "jabong",
+            "snapdeal",
+            "myntra",
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user182",
+        "purchases": [
+            "flipkart",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user183",
+        "purchases": [
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user184",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "shopclues",
+            "amazon",
+            "jabong",
+            "flipkart",
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user185",
+        "purchases": [
+            "amazon",
+            "ebay",
+            "shopclues",
+            "ebay",
+            "ebay",
+            "flipkart",
+            "shopclues",
+            "amazon",
+            "ebay",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user186",
+        "purchases": [
+            "jabong",
+            "ebay",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user187",
+        "purchases": [
+            "shopclues",
+            "myntra",
+            "amazon",
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user188",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "flipkart",
+            "flipkart",
+            "flipkart",
+            "shopclues",
+            "ebay",
+            "snapdeal",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user189",
+        "purchases": [
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user190",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "flipkart",
+            "snapdeal",
+            "snapdeal",
+            "flipkart",
+            "flipkart",
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user191",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "flipkart",
+            "amazon",
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user192",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "snapdeal",
+            "myntra",
+            "ebay",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user193",
+        "purchases": [
+            "jabong",
+            "flipkart",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user194",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user195",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "snapdeal",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user196",
+        "purchases": [
+            "jabong"
+        ]
+    },
+    {
+        "user": "user197",
+        "purchases": [
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user198",
+        "purchases": [
+            "shopclues",
+            "flipkart",
+            "shopclues",
+            "snapdeal",
+            "snapdeal",
+            "shopclues",
+            "myntra",
+            "shopclues",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user199",
+        "purchases": [
+            "snapdeal",
+            "myntra",
+            "snapdeal",
+            "snapdeal",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user200",
+        "purchases": [
+            "amazon",
+            "jabong",
+            "snapdeal",
+            "shopclues",
+            "snapdeal",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user201",
+        "purchases": [
+            "jabong"
+        ]
+    },
+    {
+        "user": "user202",
+        "purchases": [
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user203",
+        "purchases": [
+            "jabong",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user204",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user205",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "snapdeal",
+            "amazon",
+            "amazon",
+            "ebay",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user206",
+        "purchases": [
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user207",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "amazon",
+            "myntra",
+            "shopclues",
+            "amazon",
+            "ebay",
+            "snapdeal",
+            "ebay",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user208",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "flipkart",
+            "jabong",
+            "jabong",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user209",
+        "purchases": [
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user210",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "flipkart",
+            "snapdeal",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user211",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user212",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "ebay",
+            "flipkart",
+            "snapdeal",
+            "myntra",
+            "amazon",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user213",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "amazon",
+            "amazon",
+            "snapdeal",
+            "jabong",
+            "flipkart",
+            "flipkart",
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user214",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user215",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user216",
+        "purchases": [
+            "myntra",
+            "shopclues",
+            "shopclues",
+            "flipkart",
+            "snapdeal",
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user217",
+        "purchases": [
+            "shopclues",
+            "jabong",
+            "jabong",
+            "amazon",
+            "flipkart",
+            "shopclues",
+            "amazon",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user218",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "amazon",
+            "amazon",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user219",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user220",
+        "purchases": [
+            "ebay",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user221",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "jabong",
+            "amazon",
+            "flipkart",
+            "shopclues",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user222",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user223",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user224",
+        "purchases": [
+            "ebay",
+            "amazon",
+            "jabong",
+            "jabong",
+            "myntra",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user225",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "jabong",
+            "flipkart",
+            "jabong",
+            "jabong",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user226",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user227",
+        "purchases": [
+            "myntra",
+            "snapdeal",
+            "jabong",
+            "ebay",
+            "myntra",
+            "amazon",
+            "jabong",
+            "flipkart",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user228",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "snapdeal",
+            "ebay",
+            "jabong",
+            "snapdeal",
+            "amazon",
+            "jabong",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user229",
+        "purchases": [
+            "amazon",
+            "ebay",
+            "myntra",
+            "myntra",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user230",
+        "purchases": [
+            "ebay",
+            "shopclues",
+            "jabong",
+            "ebay",
+            "amazon",
+            "jabong",
+            "jabong",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user231",
+        "purchases": [
+            "snapdeal",
+            "flipkart",
+            "jabong",
+            "shopclues",
+            "shopclues",
+            "myntra",
+            "ebay",
+            "flipkart",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user232",
+        "purchases": [
+            "ebay",
+            "snapdeal",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user233",
+        "purchases": [
+            "ebay",
+            "amazon",
+            "jabong",
+            "ebay",
+            "flipkart",
+            "shopclues",
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user234",
+        "purchases": [
+            "shopclues",
+            "amazon",
+            "snapdeal",
+            "jabong",
+            "amazon",
+            "ebay",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user235",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user236",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user237",
+        "purchases": [
+            "snapdeal",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user238",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user239",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "amazon",
+            "ebay",
+            "ebay",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user240",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "shopclues",
+            "ebay",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user241",
+        "purchases": [
+            "flipkart",
+            "ebay",
+            "jabong",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user242",
+        "purchases": [
+            "ebay",
+            "myntra",
+            "snapdeal",
+            "jabong",
+            "jabong",
+            "myntra",
+            "flipkart",
+            "jabong",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user243",
+        "purchases": [
+            "shopclues",
+            "flipkart",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user244",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "myntra",
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user245",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user246",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "myntra",
+            "jabong",
+            "shopclues",
+            "myntra",
+            "snapdeal",
+            "jabong",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user247",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "jabong",
+            "myntra",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user248",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "shopclues",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user249",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user250",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "amazon",
+            "ebay",
+            "shopclues",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user251",
+        "purchases": [
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user252",
+        "purchases": [
+            "shopclues",
+            "jabong",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user253",
+        "purchases": [
+            "myntra",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user254",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "ebay",
+            "snapdeal",
+            "ebay",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user255",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "jabong",
+            "amazon",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user256",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "snapdeal",
+            "snapdeal",
+            "amazon",
+            "myntra",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user257",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "amazon",
+            "myntra",
+            "ebay",
+            "snapdeal",
+            "amazon",
+            "snapdeal",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user258",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user259",
+        "purchases": [
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user260",
+        "purchases": [
+            "ebay",
+            "myntra",
+            "myntra",
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user261",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "ebay",
+            "shopclues",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user262",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user263",
+        "purchases": [
+            "myntra",
+            "myntra",
+            "flipkart",
+            "snapdeal",
+            "amazon",
+            "ebay",
+            "amazon",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user264",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "amazon",
+            "amazon",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user265",
+        "purchases": [
+            "shopclues",
+            "flipkart",
+            "amazon",
+            "amazon",
+            "jabong",
+            "shopclues",
+            "myntra",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user266",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user267",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "jabong",
+            "myntra",
+            "flipkart",
+            "myntra",
+            "snapdeal",
+            "jabong",
+            "myntra",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user268",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "flipkart",
+            "shopclues",
+            "myntra",
+            "snapdeal",
+            "jabong",
+            "ebay",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user269",
+        "purchases": [
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user270",
+        "purchases": [
+            "shopclues",
+            "snapdeal",
+            "shopclues",
+            "shopclues",
+            "shopclues",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user271",
+        "purchases": [
+            "jabong",
+            "ebay",
+            "jabong",
+            "jabong",
+            "flipkart",
+            "amazon",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user272",
+        "purchases": [
+            "myntra",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user273",
+        "purchases": [
+            "ebay",
+            "shopclues",
+            "amazon",
+            "myntra",
+            "ebay",
+            "snapdeal",
+            "ebay",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user274",
+        "purchases": [
+            "snapdeal",
+            "amazon",
+            "shopclues",
+            "snapdeal",
+            "myntra",
+            "myntra",
+            "ebay",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user275",
+        "purchases": [
+            "snapdeal",
+            "shopclues",
+            "flipkart",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user276",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "myntra",
+            "amazon",
+            "snapdeal",
+            "myntra",
+            "amazon",
+            "flipkart",
+            "ebay",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user277",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon",
+            "jabong",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user278",
+        "purchases": [
+            "ebay",
+            "shopclues",
+            "snapdeal",
+            "amazon",
+            "shopclues",
+            "myntra",
+            "ebay",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user279",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "ebay",
+            "shopclues",
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user280",
+        "purchases": [
+            "flipkart",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user281",
+        "purchases": [
+            "ebay",
+            "ebay",
+            "amazon",
+            "ebay",
+            "shopclues",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user282",
+        "purchases": [
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user283",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "shopclues",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user284",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "snapdeal",
+            "amazon",
+            "shopclues",
+            "flipkart",
+            "shopclues",
+            "jabong",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user285",
+        "purchases": [
+            "snapdeal",
+            "myntra",
+            "snapdeal",
+            "shopclues",
+            "flipkart",
+            "ebay",
+            "myntra",
+            "myntra",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user286",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user287",
+        "purchases": [
+            "myntra",
+            "shopclues",
+            "amazon",
+            "shopclues",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user288",
+        "purchases": [
+            "snapdeal",
+            "shopclues",
+            "flipkart",
+            "amazon",
+            "shopclues",
+            "shopclues",
+            "amazon",
+            "jabong",
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user289",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "myntra",
+            "shopclues",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user290",
+        "purchases": [
+            "snapdeal",
+            "jabong",
+            "ebay",
+            "shopclues",
+            "shopclues",
+            "jabong",
+            "ebay",
+            "myntra",
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user291",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user292",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user293",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "jabong",
+            "jabong",
+            "jabong",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user294",
+        "purchases": [
+            "flipkart",
+            "ebay",
+            "shopclues",
+            "snapdeal",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user295",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user296",
+        "purchases": [
+            "ebay",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user297",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "shopclues",
+            "myntra",
+            "shopclues",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user298",
+        "purchases": [
+            "flipkart",
+            "ebay",
+            "ebay",
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user299",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "ebay",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user300",
+        "purchases": [
+            "flipkart",
+            "myntra",
+            "jabong",
+            "jabong",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user301",
+        "purchases": [
+            "shopclues",
+            "snapdeal",
+            "myntra",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user302",
+        "purchases": [
+            "flipkart",
+            "ebay",
+            "flipkart",
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user303",
+        "purchases": [
+            "ebay",
+            "ebay",
+            "snapdeal",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user304",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "amazon",
+            "shopclues",
+            "jabong",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user305",
+        "purchases": [
+            "amazon",
+            "ebay",
+            "jabong",
+            "jabong",
+            "jabong",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user306",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user307",
+        "purchases": [
+            "ebay",
+            "myntra",
+            "ebay",
+            "jabong",
+            "amazon",
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user308",
+        "purchases": [
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user309",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "shopclues",
+            "ebay",
+            "flipkart",
+            "myntra",
+            "shopclues",
+            "ebay",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user310",
+        "purchases": [
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user311",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user312",
+        "purchases": [
+            "ebay",
+            "amazon",
+            "flipkart",
+            "myntra",
+            "amazon",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user313",
+        "purchases": [
+            "amazon",
+            "snapdeal",
+            "jabong",
+            "jabong",
+            "amazon",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user314",
+        "purchases": [
+            "snapdeal",
+            "jabong",
+            "flipkart",
+            "amazon",
+            "amazon",
+            "amazon",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user315",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "amazon",
+            "amazon",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user316",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user317",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "amazon",
+            "flipkart",
+            "myntra",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user318",
+        "purchases": [
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user319",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "flipkart",
+            "shopclues",
+            "shopclues",
+            "snapdeal",
+            "jabong",
+            "amazon",
+            "ebay",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user320",
+        "purchases": [
+            "snapdeal",
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user321",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "amazon",
+            "shopclues",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user322",
+        "purchases": [
+            "amazon",
+            "ebay",
+            "ebay",
+            "shopclues",
+            "myntra",
+            "ebay",
+            "jabong",
+            "shopclues",
+            "ebay",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user323",
+        "purchases": [
+            "jabong",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user324",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "shopclues",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user325",
+        "purchases": [
+            "shopclues",
+            "myntra",
+            "jabong",
+            "amazon",
+            "amazon",
+            "flipkart",
+            "shopclues",
+            "myntra",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user326",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "shopclues",
+            "amazon",
+            "flipkart",
+            "shopclues",
+            "snapdeal",
+            "myntra",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user327",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "ebay",
+            "snapdeal",
+            "ebay",
+            "shopclues",
+            "flipkart",
+            "shopclues",
+            "jabong",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user328",
+        "purchases": [
+            "ebay",
+            "snapdeal",
+            "snapdeal",
+            "amazon",
+            "snapdeal",
+            "flipkart",
+            "myntra",
+            "amazon",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user329",
+        "purchases": [
+            "amazon",
+            "jabong",
+            "shopclues",
+            "jabong",
+            "snapdeal",
+            "jabong",
+            "jabong",
+            "jabong",
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user330",
+        "purchases": [
+            "myntra",
+            "myntra",
+            "amazon",
+            "myntra",
+            "shopclues",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user331",
+        "purchases": [
+            "flipkart",
+            "jabong",
+            "jabong",
+            "shopclues",
+            "amazon",
+            "jabong",
+            "shopclues",
+            "ebay",
+            "jabong",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user332",
+        "purchases": [
+            "jabong",
+            "myntra",
+            "shopclues",
+            "jabong",
+            "flipkart",
+            "jabong",
+            "amazon",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user333",
+        "purchases": [
+            "amazon",
+            "ebay",
+            "shopclues",
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user334",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "snapdeal",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user335",
+        "purchases": [
+            "snapdeal",
+            "shopclues",
+            "shopclues",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user336",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user337",
+        "purchases": [
+            "myntra",
+            "snapdeal",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user338",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "flipkart",
+            "jabong",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user339",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "myntra",
+            "shopclues",
+            "flipkart",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user340",
+        "purchases": [
+            "snapdeal",
+            "flipkart",
+            "myntra",
+            "snapdeal",
+            "amazon",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user341",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user342",
+        "purchases": [
+            "shopclues",
+            "amazon",
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user343",
+        "purchases": [
+            "ebay",
+            "jabong",
+            "myntra",
+            "amazon",
+            "jabong",
+            "jabong",
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user344",
+        "purchases": [
+            "jabong",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user345",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "ebay",
+            "amazon",
+            "jabong",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user346",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user347",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "jabong",
+            "amazon",
+            "ebay",
+            "shopclues",
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user348",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "jabong",
+            "ebay",
+            "ebay",
+            "amazon",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user349",
+        "purchases": [
+            "snapdeal",
+            "flipkart",
+            "amazon",
+            "amazon",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user350",
+        "purchases": [
+            "myntra",
+            "shopclues",
+            "myntra",
+            "myntra",
+            "ebay",
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user351",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "shopclues",
+            "jabong",
+            "shopclues",
+            "snapdeal",
+            "ebay",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user352",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "flipkart",
+            "shopclues",
+            "amazon",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user353",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user354",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "myntra",
+            "jabong",
+            "flipkart",
+            "shopclues",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user355",
+        "purchases": [
+            "jabong"
+        ]
+    },
+    {
+        "user": "user356",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user357",
+        "purchases": [
+            "myntra",
+            "snapdeal",
+            "snapdeal",
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user358",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "shopclues",
+            "jabong",
+            "ebay",
+            "jabong",
+            "jabong",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user359",
+        "purchases": [
+            "jabong",
+            "ebay",
+            "jabong",
+            "myntra",
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user360",
+        "purchases": [
+            "myntra",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user361",
+        "purchases": [
+            "ebay",
+            "jabong",
+            "amazon",
+            "flipkart",
+            "ebay",
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user362",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon",
+            "jabong",
+            "ebay",
+            "ebay",
+            "myntra",
+            "ebay",
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user363",
+        "purchases": [
+            "flipkart",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user364",
+        "purchases": [
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user365",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user366",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "shopclues",
+            "amazon",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user367",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user368",
+        "purchases": [
+            "amazon",
+            "snapdeal",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user369",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "myntra",
+            "ebay",
+            "flipkart",
+            "snapdeal",
+            "amazon",
+            "ebay",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user370",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "ebay",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user371",
+        "purchases": [
+            "shopclues",
+            "flipkart",
+            "shopclues",
+            "myntra",
+            "amazon",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user372",
+        "purchases": [
+            "jabong",
+            "amazon",
+            "jabong",
+            "jabong",
+            "amazon",
+            "snapdeal",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user373",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "myntra",
+            "ebay",
+            "amazon",
+            "flipkart",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user374",
+        "purchases": [
+            "snapdeal",
+            "amazon",
+            "jabong",
+            "shopclues",
+            "flipkart",
+            "amazon",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user375",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "shopclues",
+            "myntra",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user376",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "jabong",
+            "ebay",
+            "snapdeal",
+            "shopclues",
+            "amazon",
+            "shopclues",
+            "shopclues",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user377",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "jabong",
+            "amazon",
+            "ebay",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user378",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "myntra",
+            "ebay",
+            "myntra",
+            "ebay",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user379",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "amazon",
+            "ebay",
+            "amazon",
+            "amazon",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user380",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "ebay",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user381",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user382",
+        "purchases": [
+            "ebay",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user383",
+        "purchases": [
+            "ebay",
+            "myntra",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user384",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "amazon",
+            "snapdeal",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user385",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user386",
+        "purchases": [
+            "myntra",
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user387",
+        "purchases": [
+            "myntra",
+            "shopclues",
+            "ebay",
+            "amazon",
+            "amazon",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user388",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon",
+            "shopclues",
+            "amazon",
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user389",
+        "purchases": [
+            "flipkart",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user390",
+        "purchases": [
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user391",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "amazon",
+            "snapdeal",
+            "ebay",
+            "flipkart",
+            "shopclues",
+            "amazon",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user392",
+        "purchases": [
+            "jabong",
+            "flipkart",
+            "jabong",
+            "shopclues",
+            "shopclues",
+            "flipkart",
+            "snapdeal",
+            "myntra",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user393",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "flipkart",
+            "snapdeal",
+            "amazon",
+            "shopclues",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user394",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "jabong",
+            "ebay",
+            "shopclues",
+            "snapdeal",
+            "jabong",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user395",
+        "purchases": [
+            "shopclues",
+            "amazon",
+            "flipkart",
+            "ebay",
+            "ebay",
+            "shopclues",
+            "shopclues",
+            "jabong",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user396",
+        "purchases": [
+            "snapdeal",
+            "jabong",
+            "myntra",
+            "snapdeal",
+            "snapdeal",
+            "amazon",
+            "snapdeal",
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user397",
+        "purchases": [
+            "amazon",
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user398",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user399",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user400",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "shopclues",
+            "amazon",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user401",
+        "purchases": [
+            "ebay",
+            "shopclues",
+            "snapdeal",
+            "snapdeal",
+            "shopclues",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user402",
+        "purchases": [
+            "snapdeal",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user403",
+        "purchases": [
+            "amazon",
+            "snapdeal",
+            "ebay",
+            "amazon",
+            "myntra",
+            "shopclues",
+            "myntra",
+            "shopclues",
+            "jabong",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user404",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "snapdeal",
+            "shopclues",
+            "flipkart",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user405",
+        "purchases": [
+            "shopclues",
+            "jabong",
+            "amazon",
+            "flipkart",
+            "amazon",
+            "amazon",
+            "shopclues",
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user406",
+        "purchases": [
+            "ebay",
+            "myntra",
+            "myntra",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user407",
+        "purchases": [
+            "snapdeal",
+            "amazon",
+            "jabong",
+            "jabong",
+            "myntra",
+            "jabong",
+            "jabong",
+            "ebay",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user408",
+        "purchases": [
+            "myntra"
+        ]
+    },
+    {
+        "user": "user409",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "jabong",
+            "myntra",
+            "shopclues",
+            "amazon",
+            "jabong",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user410",
+        "purchases": [
+            "myntra",
+            "snapdeal",
+            "shopclues",
+            "snapdeal",
+            "flipkart",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user411",
+        "purchases": [
+            "snapdeal",
+            "ebay",
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user412",
+        "purchases": [
+            "snapdeal",
+            "myntra",
+            "shopclues",
+            "amazon",
+            "shopclues",
+            "flipkart",
+            "shopclues",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user413",
+        "purchases": [
+            "snapdeal",
+            "snapdeal",
+            "amazon",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user414",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user415",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "snapdeal",
+            "snapdeal",
+            "myntra",
+            "flipkart",
+            "myntra",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user416",
+        "purchases": [
+            "shopclues",
+            "myntra",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user417",
+        "purchases": [
+            "ebay",
+            "jabong",
+            "amazon",
+            "ebay",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user418",
+        "purchases": [
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user419",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "jabong",
+            "amazon",
+            "myntra",
+            "myntra",
+            "flipkart",
+            "amazon",
+            "myntra",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user420",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user421",
+        "purchases": [
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user422",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "shopclues",
+            "flipkart",
+            "shopclues",
+            "flipkart",
+            "jabong",
+            "ebay",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user423",
+        "purchases": [
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user424",
+        "purchases": [
+            "ebay",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user425",
+        "purchases": [
+            "amazon",
+            "snapdeal",
+            "flipkart",
+            "ebay",
+            "flipkart",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user426",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "shopclues",
+            "flipkart",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user427",
+        "purchases": [
+            "myntra",
+            "amazon",
+            "flipkart",
+            "shopclues",
+            "jabong",
+            "amazon",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user428",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "ebay",
+            "ebay",
+            "flipkart",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user429",
+        "purchases": [
+            "flipkart",
+            "shopclues",
+            "jabong",
+            "amazon",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user430",
+        "purchases": [
+            "ebay",
+            "shopclues",
+            "ebay",
+            "snapdeal",
+            "flipkart",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user431",
+        "purchases": [
+            "shopclues",
+            "snapdeal",
+            "myntra",
+            "snapdeal",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user432",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user433",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "myntra",
+            "snapdeal",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user434",
+        "purchases": [
+            "shopclues",
+            "snapdeal",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user435",
+        "purchases": [
+            "amazon",
+            "jabong",
+            "ebay",
+            "myntra",
+            "myntra",
+            "shopclues",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user436",
+        "purchases": [
+            "myntra",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user437",
+        "purchases": [
+            "myntra",
+            "flipkart",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user438",
+        "purchases": [
+            "jabong",
+            "shopclues",
+            "amazon",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user439",
+        "purchases": [
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user440",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "shopclues",
+            "flipkart",
+            "jabong",
+            "snapdeal",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user441",
+        "purchases": [
+            "shopclues",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user442",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user443",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "ebay",
+            "jabong",
+            "shopclues",
+            "myntra",
+            "myntra",
+            "shopclues",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user444",
+        "purchases": [
+            "snapdeal",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user445",
+        "purchases": [
+            "shopclues",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user446",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "jabong",
+            "jabong",
+            "shopclues",
+            "snapdeal",
+            "ebay",
+            "myntra",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user447",
+        "purchases": [
+            "shopclues",
+            "snapdeal",
+            "shopclues",
+            "ebay",
+            "jabong",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user448",
+        "purchases": [
+            "shopclues",
+            "jabong",
+            "jabong",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user449",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "flipkart",
+            "flipkart",
+            "amazon",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user450",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "flipkart",
+            "snapdeal",
+            "jabong",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user451",
+        "purchases": [
+            "shopclues",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user452",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "myntra",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user453",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "myntra",
+            "snapdeal",
+            "amazon",
+            "shopclues",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user454",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user455",
+        "purchases": [
+            "flipkart",
+            "jabong",
+            "shopclues",
+            "amazon",
+            "snapdeal",
+            "amazon",
+            "myntra",
+            "jabong",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user456",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user457",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "ebay",
+            "jabong",
+            "jabong",
+            "flipkart",
+            "flipkart",
+            "amazon",
+            "ebay",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user458",
+        "purchases": [
+            "flipkart",
+            "flipkart",
+            "jabong",
+            "ebay",
+            "myntra",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user459",
+        "purchases": [
+            "jabong",
+            "amazon",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user460",
+        "purchases": [
+            "ebay",
+            "ebay",
+            "shopclues",
+            "flipkart",
+            "jabong",
+            "amazon",
+            "snapdeal",
+            "flipkart",
+            "amazon",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user461",
+        "purchases": [
+            "flipkart",
+            "snapdeal",
+            "jabong",
+            "shopclues",
+            "shopclues",
+            "myntra",
+            "snapdeal",
+            "shopclues",
+            "flipkart",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user462",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "snapdeal",
+            "shopclues",
+            "myntra",
+            "snapdeal",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user463",
+        "purchases": [
+            "shopclues",
+            "ebay",
+            "flipkart",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user464",
+        "purchases": [
+            "amazon",
+            "jabong",
+            "shopclues",
+            "myntra",
+            "flipkart",
+            "flipkart",
+            "amazon",
+            "amazon",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user465",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "flipkart",
+            "ebay",
+            "snapdeal",
+            "myntra",
+            "amazon",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user466",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "shopclues",
+            "shopclues",
+            "amazon",
+            "snapdeal",
+            "amazon",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user467",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user468",
+        "purchases": [
+            "ebay",
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user469",
+        "purchases": [
+            "myntra",
+            "ebay",
+            "amazon",
+            "flipkart",
+            "amazon",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user470",
+        "purchases": [
+            "shopclues",
+            "snapdeal",
+            "shopclues",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user471",
+        "purchases": [
+            "ebay",
+            "flipkart",
+            "ebay",
+            "ebay",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user472",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user473",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "snapdeal",
+            "myntra",
+            "snapdeal",
+            "shopclues",
+            "amazon",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user474",
+        "purchases": [
+            "jabong",
+            "snapdeal",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user475",
+        "purchases": [
+            "amazon",
+            "amazon",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user476",
+        "purchases": [
+            "amazon",
+            "shopclues",
+            "amazon",
+            "amazon",
+            "flipkart",
+            "snapdeal",
+            "flipkart",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user477",
+        "purchases": [
+            "amazon"
+        ]
+    },
+    {
+        "user": "user478",
+        "purchases": [
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user479",
+        "purchases": [
+            "amazon",
+            "myntra",
+            "flipkart",
+            "ebay",
+            "myntra",
+            "myntra",
+            "shopclues",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user480",
+        "purchases": [
+            "ebay",
+            "amazon",
+            "flipkart",
+            "flipkart",
+            "shopclues",
+            "snapdeal",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user481",
+        "purchases": [
+            "jabong",
+            "flipkart",
+            "jabong",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user482",
+        "purchases": [
+            "snapdeal",
+            "flipkart",
+            "myntra",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user483",
+        "purchases": [
+            "snapdeal",
+            "ebay",
+            "shopclues",
+            "jabong",
+            "snapdeal",
+            "amazon"
+        ]
+    },
+    {
+        "user": "user484",
+        "purchases": [
+            "ebay",
+            "ebay",
+            "myntra",
+            "snapdeal",
+            "jabong",
+            "snapdeal",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user485",
+        "purchases": [
+            "ebay",
+            "amazon",
+            "flipkart",
+            "snapdeal",
+            "shopclues",
+            "shopclues",
+            "jabong",
+            "amazon",
+            "amazon",
+            "shopclues"
+        ]
+    },
+    {
+        "user": "user486",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "amazon",
+            "jabong",
+            "amazon",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user487",
+        "purchases": [
+            "shopclues",
+            "shopclues",
+            "ebay",
+            "jabong"
+        ]
+    },
+    {
+        "user": "user488",
+        "purchases": [
+            "flipkart",
+            "ebay",
+            "myntra",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user489",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "flipkart",
+            "flipkart",
+            "myntra",
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user490",
+        "purchases": [
+            "ebay",
+            "jabong",
+            "ebay",
+            "flipkart",
+            "flipkart",
+            "shopclues",
+            "myntra"
+        ]
+    },
+    {
+        "user": "user491",
+        "purchases": [
+            "amazon",
+            "flipkart",
+            "snapdeal",
+            "flipkart",
+            "myntra",
+            "snapdeal",
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user492",
+        "purchases": [
+            "jabong",
+            "jabong",
+            "jabong",
+            "jabong",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user493",
+        "purchases": [
+            "snapdeal",
+            "shopclues",
+            "amazon",
+            "jabong",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user494",
+        "purchases": [
+            "ebay"
+        ]
+    },
+    {
+        "user": "user495",
+        "purchases": [
+            "shopclues",
+            "snapdeal",
+            "myntra",
+            "flipkart",
+            "shopclues",
+            "myntra",
+            "ebay",
+            "flipkart",
+            "flipkart",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user496",
+        "purchases": [
+            "flipkart",
+            "amazon",
+            "amazon",
+            "myntra",
+            "amazon",
+            "snapdeal",
+            "shopclues",
+            "flipkart",
+            "snapdeal",
+            "flipkart"
+        ]
+    },
+    {
+        "user": "user497",
+        "purchases": [
+            "flipkart",
+            "ebay",
+            "myntra",
+            "amazon",
+            "snapdeal",
+            "myntra",
+            "flipkart",
+            "snapdeal"
+        ]
+    },
+    {
+        "user": "user498",
+        "purchases": [
+            "ebay",
+            "shopclues",
+            "flipkart",
+            "snapdeal",
+            "amazon",
+            "myntra",
+            "snapdeal",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user499",
+        "purchases": [
+            "shopclues",
+            "snapdeal",
+            "shopclues",
+            "myntra",
+            "ebay"
+        ]
+    },
+    {
+        "user": "user500",
+        "purchases": [
+            "myntra",
+            "jabong",
+            "ebay"
+        ]
+    }
+]
